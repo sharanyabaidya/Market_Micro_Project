@@ -1,0 +1,19 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# raw and processed data (~1.5 GB) - recreate with scripts/download_data.sh and scripts/run_all.py
+data/raw/
+data/processed/
+
+# third-party published papers (copyrighted; obtain through your library)
+Aminud and Mendelson 1980, Dealership Market.pdf
+Ho and Stoll 1983, Dealer Market Competition.pdf
+Journal of Forecasting - 2018 - Ntakaris*.pdf
+ssrn-1412021.pdf
+
+# logs
+results/run_all.log
+results/archive/baseline_stage2/run_all.log

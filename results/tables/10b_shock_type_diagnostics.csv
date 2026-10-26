@@ -1,0 +1,3 @@
+events,"corr(|OFI shock|, price impact)",dataset,"corr(aggressive volume, |OFI shock|)","corr(aggressive volume, price impact)",mean |OFI| high-volume group,mean |OFI| low-volume group
+1269,0.09509364155958833,FI-2010,,,,
+657,0.006305754211745001,LOBSTER,-0.12884056291817111,-0.022482148026702595,3.8790970662373057,6.366995515720323
